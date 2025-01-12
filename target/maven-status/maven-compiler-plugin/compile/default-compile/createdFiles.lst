@@ -1,0 +1,7 @@
+rishavPortfolio\PageObjects\CheckOutPage.class
+rishavPortfolio\AbstractComponents\AbstarctComponents.class
+rishavPortfolio\PageObjects\CartPage.class
+rishavPortfolio\PageObjects\ConfirmationPage.class
+rishavPortfolio\PageObjects\ProductCatalogue.class
+rishavPortfolio\PageObjects\OrderPage.class
+rishavPortfolio\PageObjects\LandingPage.class
